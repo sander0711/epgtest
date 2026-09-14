@@ -1,0 +1,548 @@
+﻿[
+    {
+        "channel":  "100% NL",
+        "epg_id":  null,
+        "streams":  [
+                        "1832397"
+                    ],
+        "original_names":  [
+                               "NL: 100% NL"
+                           ],
+        "epg_match_name":  "100% NL"
+    },
+    {
+        "channel":  "ESPN 1 ZIGGO",
+        "epg_id":  null,
+        "streams":  [
+                        "1562711"
+                    ],
+        "original_names":  [
+                               "NL: ESPN 1 ZIGGO ᴿᴬᵂ"
+                           ],
+        "epg_match_name":  "ESPN 1"
+    },
+    {
+        "channel":  "ESPN 2 ZIGGO",
+        "epg_id":  null,
+        "streams":  [
+                        "1562710"
+                    ],
+        "original_names":  [
+                               "NL: ESPN 2 ZIGGO ᴿᴬᵂ"
+                           ],
+        "epg_match_name":  "ESPN 2"
+    },
+    {
+        "channel":  "ESPN 3 ZIGGO",
+        "epg_id":  null,
+        "streams":  [
+                        "1562709"
+                    ],
+        "original_names":  [
+                               "NL: ESPN 3 ZIGGO ᴿᴬᵂ"
+                           ],
+        "epg_match_name":  "ESPN 3"
+    },
+    {
+        "channel":  "ESPN 4 ZIGGO",
+        "epg_id":  null,
+        "streams":  [
+                        "1562708"
+                    ],
+        "original_names":  [
+                               "NL: ESPN 4 ZIGGO ᴿᴬᵂ"
+                           ],
+        "epg_match_name":  "ESPN 4"
+    },
+    {
+        "channel":  "ESPN ZIGGO",
+        "epg_id":  null,
+        "streams":  [
+                        "1562699"
+                    ],
+        "original_names":  [
+                               "NL: ESPN ZIGGO ᴿᴬᵂ"
+                           ],
+        "epg_match_name":  "ESPN ZIGGO"
+    },
+    {
+        "channel":  "EUROSPORT",
+        "epg_id":  null,
+        "streams":  [
+                        "2011548",
+                        "2011257"
+                    ],
+        "original_names":  [
+                               "OD: EUROSPORT ᴴᴰ",
+                               "OD: EUROSPORT ᴿᴬᵂ"
+                           ],
+        "epg_match_name":  "EUROSPORT"
+    },
+    {
+        "channel":  "FILM1 ACTION",
+        "epg_id":  null,
+        "streams":  [
+                        "2011824",
+                        "2011533"
+                    ],
+        "original_names":  [
+                               "OD: FILM1 ACTION ᴴᴰ",
+                               "OD: FILM1 ACTION ᴿᴬᵂ"
+                           ],
+        "epg_match_name":  "FILM1 ACTION"
+    },
+    {
+        "channel":  "FILM1 DRAMA",
+        "epg_id":  null,
+        "streams":  [
+                        "2011823",
+                        "2011532"
+                    ],
+        "original_names":  [
+                               "OD: FILM1 DRAMA ᴴᴰ",
+                               "OD: FILM1 DRAMA ᴿᴬᵂ"
+                           ],
+        "epg_match_name":  "FILM1 DRAMA"
+    },
+    {
+        "channel":  "FILM1 FAMILY",
+        "epg_id":  null,
+        "streams":  [
+                        "2011822",
+                        "2011531"
+                    ],
+        "original_names":  [
+                               "OD: FILM1 FAMILY ᴴᴰ",
+                               "OD: FILM1 FAMILY ᴿᴬᵂ"
+                           ],
+        "epg_match_name":  "FILM1 FAMILY"
+    },
+    {
+        "channel":  "FILM1 PREMIERE",
+        "epg_id":  null,
+        "streams":  [
+                        "2011821",
+                        "2011530"
+                    ],
+        "original_names":  [
+                               "OD: FILM1 PREMIERE ᴴᴰ",
+                               "OD: FILM1 PREMIERE ᴿᴬᵂ"
+                           ],
+        "epg_match_name":  "FILM1 PREMIERE"
+    },
+    {
+        "channel":  "HISTORY CHANNEL",
+        "epg_id":  null,
+        "streams":  [
+                        "1981473",
+                        "2011742",
+                        "2011451"
+                    ],
+        "original_names":  [
+                               "NL: HISTORY CHANNEL ᴿᴬᵂ",
+                               "OD: HISTORY CHANNEL ᴴᴰ",
+                               "OD: HISTORY CHANNEL ᴿᴬᵂ"
+                           ],
+        "epg_match_name":  "HISTORY CHANNEL"
+    },
+    {
+        "channel":  "NATIONAL GEOGRAPHIC",
+        "epg_id":  null,
+        "streams":  [
+                        "2011707",
+                        "2011416"
+                    ],
+        "original_names":  [
+                               "OD: NATIONAL GEOGRAPHIC ᴴᴰ",
+                               "OD: NATIONAL GEOGRAPHIC ᴿᴬᵂ"
+                           ],
+        "epg_match_name":  "NATIONAL GEOGRAPHIC"
+    },
+    {
+        "channel":  "NH",
+        "epg_id":  null,
+        "streams":  [
+                        "2011704",
+                        "2011413"
+                    ],
+        "original_names":  [
+                               "OD: NH ᴴᴰ",
+                               "OD: NH ᴿᴬᵂ"
+                           ],
+        "epg_match_name":  "NH"
+    },
+    {
+        "channel":  "NH GOOI",
+        "epg_id":  null,
+        "streams":  [
+                        "2011703",
+                        "2011412"
+                    ],
+        "original_names":  [
+                               "OD: NH GOOI ᴴᴰ",
+                               "OD: NH GOOI ᴿᴬᵂ"
+                           ],
+        "epg_match_name":  "NH GOOI"
+    },
+    {
+        "channel":  "NICK JR.",
+        "epg_id":  null,
+        "streams":  [
+                        "2011702",
+                        "2011411"
+                    ],
+        "original_names":  [
+                               "OD: NICK JR. ᴴᴰ",
+                               "OD: NICK JR. ᴿᴬᵂ"
+                           ],
+        "epg_match_name":  "NICK JR."
+    },
+    {
+        "channel":  "NICKELODEON",
+        "epg_id":  null,
+        "streams":  [
+                        "1981465",
+                        "2011700",
+                        "2011409"
+                    ],
+        "original_names":  [
+                               "NL: NICKELODEON ᴿᴬᵂ",
+                               "OD: NICKELODEON ᴴᴰ",
+                               "OD: NICKELODEON ᴿᴬᵂ"
+                           ],
+        "epg_match_name":  "NICKELODEON"
+    },
+    {
+        "channel":  "NPO 1",
+        "epg_id":  null,
+        "streams":  [
+                        "536245",
+                        "1981506",
+                        "2011834",
+                        "2011543"
+                    ],
+        "original_names":  [
+                               "NL: NPO 1 LQ",
+                               "NL: NPO 1 ᴿᴬᵂ",
+                               "OD: NPO 1 ᴴᴰ",
+                               "OD: NPO 1 ᴿᴬᵂ"
+                           ],
+        "epg_match_name":  "NPO 1"
+    },
+    {
+        "channel":  "NPO 2",
+        "epg_id":  null,
+        "streams":  [
+                        "536244",
+                        "1981505",
+                        "2011833",
+                        "2011542"
+                    ],
+        "original_names":  [
+                               "NL: NPO 2 LQ",
+                               "NL: NPO 2 ᴿᴬᵂ",
+                               "OD: NPO 2 ᴴᴰ",
+                               "OD: NPO 2 ᴿᴬᵂ"
+                           ],
+        "epg_match_name":  "NPO 2"
+    },
+    {
+        "channel":  "NPO 3",
+        "epg_id":  null,
+        "streams":  [
+                        "536243",
+                        "1981504",
+                        "2011832",
+                        "2011541"
+                    ],
+        "original_names":  [
+                               "NL: NPO 3 LQ",
+                               "NL: NPO 3 ᴿᴬᵂ",
+                               "OD: NPO 3 ᴴᴰ",
+                               "OD: NPO 3 ᴿᴬᵂ"
+                           ],
+        "epg_match_name":  "NPO 3"
+    },
+    {
+        "channel":  "NPO POLITIEK EN NIEUWS",
+        "epg_id":  null,
+        "streams":  [
+                        "2011696",
+                        "2011405"
+                    ],
+        "original_names":  [
+                               "OD: NPO POLITIEK EN NIEUWS ᴴᴰ",
+                               "OD: NPO POLITIEK EN NIEUWS ᴿᴬᵂ"
+                           ],
+        "epg_match_name":  "NPO POLITIEK EN NIEUWS"
+    },
+    {
+        "channel":  "OMROEP FLEVOLAND",
+        "epg_id":  null,
+        "streams":  [
+                        "1832284",
+                        "1981462"
+                    ],
+        "original_names":  [
+                               "NL: OMROEP FLEVOLAND",
+                               "NL: OMROEP FLEVOLAND ᴿᴬᵂ"
+                           ],
+        "epg_match_name":  "OMROEP FLEVOLAND"
+    },
+    {
+        "channel":  "OMROEP FLEVOLAND TV",
+        "epg_id":  null,
+        "streams":  [
+                        "2011687",
+                        "2011396"
+                    ],
+        "original_names":  [
+                               "OD: OMROEP FLEVOLAND TV ᴴᴰ",
+                               "OD: OMROEP FLEVOLAND TV ᴿᴬᵂ"
+                           ],
+        "epg_match_name":  "OMROEP FLEVOLAND TV"
+    },
+    {
+        "channel":  "OMROEP GELDERLAND",
+        "epg_id":  null,
+        "streams":  [
+                        "1832281"
+                    ],
+        "original_names":  [
+                               "NL: OMROEP GELDERLAND"
+                           ],
+        "epg_match_name":  "OMROEP GELDERLAND"
+    },
+    {
+        "channel":  "OMROEP WEST",
+        "epg_id":  null,
+        "streams":  [
+                        "1832283"
+                    ],
+        "original_names":  [
+                               "NL: OMROEP WEST"
+                           ],
+        "epg_match_name":  "OMROEP WEST"
+    },
+    {
+        "channel":  "PARAMOUNT NETWORK",
+        "epg_id":  null,
+        "streams":  [
+                        "1981456",
+                        "1665122",
+                        "2011661",
+                        "2011370"
+                    ],
+        "original_names":  [
+                               "NL: PARAMOUNT NETWORK ᴿᴬᵂ",
+                               "OD: PARAMOUNT NETWORK ᴴᴰ",
+                               "OD: PARAMOUNT NETWORK ᴿᴬᵂ"
+                           ],
+        "epg_match_name":  "PARAMOUNT NETWORK"
+    },
+    {
+        "channel":  "QMUSIC",
+        "epg_id":  null,
+        "streams":  [
+                        "1832427"
+                    ],
+        "original_names":  [
+                               "NL: QMUSIC"
+                           ],
+        "epg_match_name":  "QMUSIC"
+    },
+    {
+        "channel":  "RTV DRENTHE",
+        "epg_id":  null,
+        "streams":  [
+                        "1832280",
+                        "2011648",
+                        "2011357"
+                    ],
+        "original_names":  [
+                               "NL: RTV DRENTHE",
+                               "OD: RTV DRENTHE ᴴᴰ",
+                               "OD: RTV DRENTHE ᴿᴬᵂ"
+                           ],
+        "epg_match_name":  "RTV DRENTHE"
+    },
+    {
+        "channel":  "RTV NOORD",
+        "epg_id":  null,
+        "streams":  [
+                        "1832285",
+                        "1981492"
+                    ],
+        "original_names":  [
+                               "NL: RTV NOORD",
+                               "NL: RTV NOORD ᴿᴬᵂ"
+                           ],
+        "epg_match_name":  "RTV NOORD"
+    },
+    {
+        "channel":  "RTV OOST",
+        "epg_id":  null,
+        "streams":  [
+                        "1832279"
+                    ],
+        "original_names":  [
+                               "NL: RTV OOST"
+                           ],
+        "epg_match_name":  "RTV OOST"
+    },
+    {
+        "channel":  "SBS 6",
+        "epg_id":  null,
+        "streams":  [
+                        "536240",
+                        "2011827",
+                        "2011536"
+                    ],
+        "original_names":  [
+                               "NL: SBS 6 LQ",
+                               "OD: SBS 6 ᴴᴰ",
+                               "OD: SBS 6 ᴿᴬᵂ"
+                           ],
+        "epg_match_name":  "SBS 6"
+    },
+    {
+        "channel":  "SBS6 CLASSICS",
+        "epg_id":  null,
+        "streams":  [
+                        "1981502"
+                    ],
+        "original_names":  [
+                               "NL: SBS6 CLASSICS ᴿᴬᵂ"
+                           ],
+        "epg_match_name":  "SBS6 CLASSICS"
+    },
+    {
+        "channel":  "TV WEST",
+        "epg_id":  null,
+        "streams":  [
+                        "1981450",
+                        "2011585",
+                        "2011294"
+                    ],
+        "original_names":  [
+                               "NL: TV WEST ᴿᴬᵂ",
+                               "OD: TV WEST ᴴᴰ",
+                               "OD: TV WEST ᴿᴬᵂ"
+                           ],
+        "epg_match_name":  "TV WEST"
+    },
+    {
+        "channel":  "VERONICA",
+        "epg_id":  null,
+        "streams":  [
+                        "1981449"
+                    ],
+        "original_names":  [
+                               "NL: VERONICA ᴿᴬᵂ"
+                           ],
+        "epg_match_name":  "VERONICA"
+    },
+    {
+        "channel":  "ZIGGO SPORT DOCU",
+        "epg_id":  null,
+        "streams":  [
+                        "536216"
+                    ],
+        "original_names":  [
+                               "NL: ZIGGO SPORT DOCU LQ"
+                           ],
+        "epg_match_name":  "ZIGGO SPORT DOCU"
+    },
+    {
+        "channel":  "ZIGGO SPORT FREE 1",
+        "epg_id":  null,
+        "streams":  [
+                        "1562697"
+                    ],
+        "original_names":  [
+                               "NL: ZIGGO SPORT FREE 1 ᴿᴬᵂ"
+                           ],
+        "epg_match_name":  "ZIGGO SPORT FREE 1"
+    },
+    {
+        "channel":  "ZIGGO SPORT FREE 2",
+        "epg_id":  null,
+        "streams":  [
+                        "1562696"
+                    ],
+        "original_names":  [
+                               "NL: ZIGGO SPORT FREE 2 ᴿᴬᵂ"
+                           ],
+        "epg_match_name":  "ZIGGO SPORT FREE 2"
+    },
+    {
+        "channel":  "ZIGGO SPORT GOLF",
+        "epg_id":  null,
+        "streams":  [
+                        "536218"
+                    ],
+        "original_names":  [
+                               "NL: ZIGGO SPORT GOLF LQ"
+                           ],
+        "epg_match_name":  "ZIGGO SPORT GOLF"
+    },
+    {
+        "channel":  "ZIGGO SPORT RACING",
+        "epg_id":  null,
+        "streams":  [
+                        "536217"
+                    ],
+        "original_names":  [
+                               "NL: ZIGGO SPORT RACING LQ"
+                           ],
+        "epg_match_name":  "ZIGGO SPORT RACING"
+    },
+    {
+        "channel":  "ZIGGO SPORT SELECT",
+        "epg_id":  null,
+        "streams":  [
+                        "536220"
+                    ],
+        "original_names":  [
+                               "NL: ZIGGO SPORT SELECT LQ"
+                           ],
+        "epg_match_name":  "ZIGGO SPORT SELECT"
+    },
+    {
+        "channel":  "ZIGGO SPORT TENNIS",
+        "epg_id":  null,
+        "streams":  [
+                        "686566",
+                        "536215",
+                        "686565"
+                    ],
+        "original_names":  [
+                               "NL: ZIGGO SPORT TENNIS 4K",
+                               "NL: ZIGGO SPORT TENNIS LQ",
+                               "NL: ZIGGO SPORT TENNIS ULTRA 4K"
+                           ],
+        "epg_match_name":  "ZIGGO SPORT TENNIS"
+    },
+    {
+        "channel":  "ZIGGO SPORT TOTTAL",
+        "epg_id":  null,
+        "streams":  [
+                        "1537598"
+                    ],
+        "original_names":  [
+                               "NL: ZIGGO SPORT TOTTAL ᴿᴬᵂ"
+                           ],
+        "epg_match_name":  "ZIGGO SPORT TOTTAL"
+    },
+    {
+        "channel":  "ZIGGO SPORT VOETBAL",
+        "epg_id":  null,
+        "streams":  [
+                        "536219"
+                    ],
+        "original_names":  [
+                               "NL: ZIGGO SPORT VOETBAL LQ"
+                           ],
+        "epg_match_name":  "ZIGGO SPORT VOETBAL"
+    }
+]
