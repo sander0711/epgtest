@@ -1,11 +1,10 @@
 ﻿$ErrorActionPreference="Stop"
 
 $base=$PSScriptRoot
-$channels="$base\channels.xml"
-$playlist="$base\playlist.json"
-$raw="$base\epg_raw.xml"
-$output="$base\epg.xml"
-$PlaylistUrl="https://raw.githubusercontent.com/sander0711/epgtest/refs/heads/main/playlist.json"
+$channels=Join-Path $base "channels.xml"
+$playlist=Join-Path $base "playlist.json"
+$raw=Join-Path $base "epg_raw.xml"
+$output=Join-Path $base "epg.xml"
 
 function prop($o,$n){
     foreach($x in $n){
@@ -31,8 +30,6 @@ foreach($x in @($c.channels.channel)){
         streams=@()
     }
 }
-
-iwr $PlaylistUrl -OutFile $playlist -UseBasicParsing
 
 $j=gc $playlist -Raw|ConvertFrom-Json
 $streams=if($j -is [array]){@($j)}else{
