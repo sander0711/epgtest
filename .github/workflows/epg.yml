@@ -29,7 +29,9 @@ jobs:
 
       - name: Generate EPG
         shell: pwsh
-        run: pwsh ./update-epg.ps1
+        run: |
+          Set-Location /tmp/epg
+          pwsh "$env:GITHUB_WORKSPACE/update-epg.ps1"
 
       - name: Save EPG
         run: |
